@@ -15,8 +15,8 @@ export const defaultCollege = {
 };
 
 export const sampleStudents = [
-  { id: "s1", name: "Arjun Kumar", regNo: "310122104001", department: departments[0], academicYear: "2025-2026", year: "3", semester: "5", section: "A", dob: "2004-03-12", bloodGroup: "B+", email: "arjun.kumar@example.com", phone: "9876543210", photo: "", status: "Active", cardGenerated: true },
-  { id: "s2", name: "Fatima Rahman", regNo: "310122205014", department: departments[1], academicYear: "2025-2026", year: "3", semester: "5", section: "B", dob: "2004-07-25", bloodGroup: "O+", email: "fatima.r@example.com", phone: "9876501234", photo: "", status: "Active", cardGenerated: true },
+  { id: "s1", name: "sajjadh samiha", regNo: "310122104001", department: departments[0], academicYear: "2025-2026", year: "3", semester: "5", section: "A", dob: "2004-03-12", bloodGroup: "B+", email: "arjun.kumar@example.com", phone: "9876543210", photo: "", status: "Active", cardGenerated: true },
+  { id: "s2", name: "sheru bhai", regNo: "310122205014", department: departments[1], academicYear: "2025-2026", year: "3", semester: "5", section: "B", dob: "2004-07-25", bloodGroup: "O+", email: "fatima.r@example.com", phone: "9876501234", photo: "", status: "Active", cardGenerated: true },
   { id: "s3", name: "Karthik Subramanian", regNo: "310123106022", department: departments[3], academicYear: "2025-2026", year: "2", semester: "3", section: "A", dob: "2005-01-08", bloodGroup: "A+", email: "karthik.s@example.com", phone: "9123456780", photo: "", status: "Active", cardGenerated: false },
   { id: "s4", name: "Meera Nair", regNo: "310124103007", department: departments[2], academicYear: "2025-2026", year: "1", semester: "1", section: "C", dob: "2006-11-30", bloodGroup: "AB+", email: "meera.nair@example.com", phone: "9988776655", photo: "", status: "Active", cardGenerated: false },
   { id: "s5", name: "Imran Basha", regNo: "310121108031", department: departments[4], academicYear: "2025-2026", year: "4", semester: "7", section: "A", dob: "2003-05-19", bloodGroup: "O-", email: "imran.b@example.com", phone: "9090909090", photo: "", status: "Inactive", cardGenerated: true },
